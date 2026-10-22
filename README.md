@@ -10,5 +10,6 @@ Walter Hugo Arboleda Mazo
 Lizardo de Jesus Madrid Taborda
 
 # Actividad:
-Actividad3-POO-2026-2
+-Activity-3-Individual-Thursday-22nd-October-
+
 
